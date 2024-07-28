@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-**'Coding in Java % Java Script'**
-<!--
-**Drakly/Drakly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coding in Java & Java Script
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on impove my skills in coding.
 - 🌱 I’m currently learning java database.
