@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🏄‍♂️ Drakly
+# 🏄‍♂️ Drakly / Kristian
 
 **`(Developer/Creator)`**
 
