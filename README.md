@@ -19,7 +19,7 @@
   - Facebook: Kristian Kirilov
   - Instagram: kris7agram
 - 😄 Pronouns: Darkly/Kris
-- ⚡ Fun fact: I Love to riding a motorcycle!!!
+- ⚡ Fun fact: I Love riding a motorcycle!!!
 
 ---
 
