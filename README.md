@@ -4,8 +4,7 @@
 **`(Developer/Creator)`**
 
 
-<p align="left">
-      a> 
+<p align="left"> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Drakly?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
@@ -21,4 +20,16 @@
   - Instagram: kris7agram
 - 😄 Pronouns: Darkly/Kris
 - ⚡ Fun fact: I Love to riding a motorcycle!!!
--->
+
+---
+
+### 🧰 Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
+---
+
+### 📊 Stats
+
+![Drakly's GitHub stats](https://github-readme-stats.vercel.app/api?username=drakly&show_icons=true&theme=gruvbox)
