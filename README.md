@@ -24,9 +24,10 @@
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+### <h3 align="left"></h3>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,maven,mysql,github,idea,postman,figma" />
+  </p>
 
 
 ---
