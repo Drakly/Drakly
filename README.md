@@ -43,9 +43,10 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [darklygamer1@gmail.com](mailto:darklygamer1@gmail.com)
+- 📧 Email: [kirilov.kristian1337@gmail.com](mailto:kirilov.kristian1337@gmail.com)
 - 📸 Instagram: [@kris7agram](https://instagram.com/kris7agram)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kristian-kirilov-05998531b/)
 ---
+
 
 > ⚡ Fun fact: I love riding my motorcycle – it clears my mind like coding clears my bugs.
